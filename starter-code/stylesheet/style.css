@@ -1,0 +1,53 @@
+html,body{
+    margin: 0;
+    padding: 0;
+    font-family: Helvetica, sans-serif;
+}
+
+.navbar-brand{
+    margin-left: 150px;
+    font-weight: bold;
+    font-size: 32px;
+    
+}
+.navbar-nav{
+    margin: auto;
+}
+
+.container-fluid2{
+    color: #fff;
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+
+.container-fluid3{
+    margin: 100px
+}
+.subtitle{
+color: gray;
+font-weight: bold;
+
+}
+
+h2{
+    font-size: 24px;
+    color: #000;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+.images-container{
+    display: flex;
+    flex-direction: row;
+}
+.img-fluid{
+display: flex;
+flex-direction: row;
+justify-content:space-between;
+height: 100px;
+}
+
+.images-box{
+    text-align: center ;
+
+}
